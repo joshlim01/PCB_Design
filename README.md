@@ -32,3 +32,7 @@ Project phases included:
 - Testing and validation with digital oscilloscope and multimeter.
 
 ![alt text](https://github.com/joshlim01/PCB_Design/blob/main/pictures/soldered_board.png)
+
+### Youtube Video:
+
+I also documented the soldering experience with a fun video and timelapse montage on Youtube. Feel free to watch it here: https://youtu.be/N-I3tIIquEQ?si=bvdNDSMJbE_GzZRB
